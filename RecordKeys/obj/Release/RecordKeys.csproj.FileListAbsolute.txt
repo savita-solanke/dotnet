@@ -1,0 +1,11 @@
+C:\Users\titto\Documents\Visual Studio 2015\Projects\RecordKeys\RecordKeys\bin\Release\RecordKeys.exe.config
+C:\Users\titto\Documents\Visual Studio 2015\Projects\RecordKeys\RecordKeys\bin\Release\RecordKeys.exe
+C:\Users\titto\Documents\Visual Studio 2015\Projects\RecordKeys\RecordKeys\bin\Release\RecordKeys.pdb
+C:\Users\titto\Documents\Visual Studio 2015\Projects\RecordKeys\RecordKeys\bin\Release\Newtonsoft.Json.dll
+C:\Users\titto\Documents\Visual Studio 2015\Projects\RecordKeys\RecordKeys\bin\Release\Newtonsoft.Json.xml
+C:\Users\titto\Documents\Visual Studio 2015\Projects\RecordKeys\RecordKeys\obj\Release\RecordKeys.Form1.resources
+C:\Users\titto\Documents\Visual Studio 2015\Projects\RecordKeys\RecordKeys\obj\Release\RecordKeys.Properties.Resources.resources
+C:\Users\titto\Documents\Visual Studio 2015\Projects\RecordKeys\RecordKeys\obj\Release\RecordKeys.csproj.GenerateResource.Cache
+C:\Users\titto\Documents\Visual Studio 2015\Projects\RecordKeys\RecordKeys\obj\Release\RecordKeys.exe
+C:\Users\titto\Documents\Visual Studio 2015\Projects\RecordKeys\RecordKeys\obj\Release\RecordKeys.pdb
+C:\Users\titto\Documents\Visual Studio 2015\Projects\RecordKeys\RecordKeys\obj\Release\RecordKeys.csprojResolveAssemblyReference.cache

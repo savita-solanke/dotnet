@@ -1,0 +1,56 @@
+{      "Sentense": [Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्यायालयाचा निकाल यावर निवेदन - 
+
+no.of BackSpace: 0
+no.of Deletion:0 DeletedCharList: 
+no.of Char Enter:1 CharList :,
+no.of Digit Enter:0DigitList:
+no.of Space Enter:0
+Other Char: 0
+copy-keys: 1  CopyList: ,CodeToString
+paste-Key: 0 Pastelist: 
+Cut-Key: 1 Cutlist: ,आरक्षण
+{      "Sentense": [Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्यायाDSलयाचा निकाल यावर निवेदन - D
+Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्यायाDSDलयाचा निकाल यावर निवेदन - S
+Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्यायाDSDSAD 32लयाचा निकाल यावर निवेदन - 3
+Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्यायाDSDSAD 32312 23लयाचा निकाल यावर निवेदन - 2
+Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्यायाDSDSAD 32312 23 2लयाचा निकाल यावर निवेदन - 3
+Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्यायाDSDSAD 32312 23 23  लयाचा निकाल यावर निवेदन - [Space]
+Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्यायाDSDSAD 32312 23 23  लयाचा निकाल यावर निवेदन - [17]
+Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्यायाDSDSAD 32312 23 23  लयाचा निकाल यावर निवेदन - 
+Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्यायाDSDSAD 32312 23 23  लयाचा निकाल यावर निवेदन - [Ctrl]
+Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्यायाDSDSAD 32312 23 23  लयाचा निकाल यावर निवेदन  - [Space]
+Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्यायाDSDSAD 32312 23 23  लयाचा निकाल यावर निवेदन आरक्षण - 
+Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्यायाDSDSAD 32312 23 23  लयाचा निकाल यावर निवेदन आरक्षण - [Ctrl]
+
+no.of BackSpace: 0
+no.of Deletion:0 DeletedCharList: 
+no.of Char Enter:4 CharList :,D,S,,
+no.of Digit Enter:3DigitList:,3,2,3
+no.of Space Enter:2
+Other Char: 2
+copy-keys: 1  CopyList: ,आरक्षण
+paste-Key: 1 Pastelist: ,आरक्षण
+Cut-Key: 0 Cutlist: 
+{      "Sentense": [Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्याgयालयाचा निकाल यावर निवेदन - g
+Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्याgdयालयाचा निकाल यावर निवेदन - d
+Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्याgdgfयालयाचा निकाल यावर निवेदन - g
+Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्याgdgfg fgfdgdfgsdfsdfsf यालयाचा निकाल यावर निवेदन - f
+Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्याgdgfg fgfdgdfgsdfsdfsf sf 432यालयाचा निकाल यावर निवेदन - 4
+Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्याgdgfg fgfdgdfgsdfsdfsf sf 432432 4234 234यालयाचा निकाल यावर निवेदन - 2
+Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्याgdgfg fgfdgdfgsdfsdfsf sf 432432 4234 234यालयाचा निकाल यावर निवेदन - 3
+Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्याgdgfg fgfdgdfgsdfsdfsf sf 432432 4234 234यालयाचा निकाल यावर निवेदन - 4
+Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्याgdgfg fgfdgdfgsdfsdfsf sf 432432 4234 234 यालयाचा निकाल यावर निवेदन - [Space]
+Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्याgdgfg fgfdgdfgsdfsdfsf sf 432432 4234 234 bvयालयाचा निकाल यावर निवेदन - b
+Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्याgdgfg fgfdgdfgsdfsdfsf sf 432432 4234 234 bvbयालयाचा निकाल यावर निवेदन - v
+Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्याgdgfg fgfdgdfgsdfsdfsf sf 432432 4234 234 bvbvयालयाचा निकाल यावर निवेदन - v
+Sentence:मुख्यमंत्री उद्धव ठाकरे आज मराठा आरक्षण, न्याgdgfg fgfdgdfgsdfsdfsf sf 432432 4234 234 bvbv यालयाचा निकाल यावर निवेदन - [Space]
+
+no.of BackSpace: 0
+no.of Deletion:0 DeletedCharList: 
+no.of Char Enter:7 CharList :,g,d,g,f,b,v,v
+no.of Digit Enter:4DigitList:,4,2,3,4
+no.of Space Enter:2
+Other Char: 0
+copy-keys: 0  CopyList: 
+paste-Key: 0 Pastelist: 
+Cut-Key: 0 Cutlist: 

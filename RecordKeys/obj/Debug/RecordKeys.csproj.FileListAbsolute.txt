@@ -1,0 +1,14 @@
+c:\users\titto\documents\visual studio 2015\Projects\RecordKeys\RecordKeys\bin\Debug\RecordKeys.exe.config
+c:\users\titto\documents\visual studio 2015\Projects\RecordKeys\RecordKeys\bin\Debug\RecordKeys.exe
+c:\users\titto\documents\visual studio 2015\Projects\RecordKeys\RecordKeys\bin\Debug\RecordKeys.pdb
+c:\users\titto\documents\visual studio 2015\Projects\RecordKeys\RecordKeys\obj\Debug\RecordKeys.Properties.Resources.resources
+c:\users\titto\documents\visual studio 2015\Projects\RecordKeys\RecordKeys\obj\Debug\RecordKeys.csproj.GenerateResource.Cache
+c:\users\titto\documents\visual studio 2015\Projects\RecordKeys\RecordKeys\obj\Debug\RecordKeys.exe
+c:\users\titto\documents\visual studio 2015\Projects\RecordKeys\RecordKeys\obj\Debug\RecordKeys.pdb
+C:\Users\titto\Documents\Visual Studio 2015\Projects\RecordKeys\RecordKeys\bin\Debug\Newtonsoft.Json.dll
+C:\Users\titto\Documents\Visual Studio 2015\Projects\RecordKeys\RecordKeys\bin\Debug\Newtonsoft.Json.xml
+C:\Users\titto\Documents\Visual Studio 2015\Projects\RecordKeys\RecordKeys\obj\Debug\RecordKeys.Form1.resources
+C:\Users\titto\Documents\Visual Studio 2015\Projects\RecordKeys\RecordKeys\obj\Debug\RecordKeys.csprojResolveAssemblyReference.cache
+C:\Users\titto\Desktop\RecordKeys\RecordKeys\bin\Debug\RecordKeys.exe.config
+C:\Users\titto\Desktop\RecordKeys\RecordKeys\obj\Debug\RecordKeys.exe
+C:\Users\titto\Desktop\RecordKeys\RecordKeys\obj\Debug\RecordKeys.pdb
